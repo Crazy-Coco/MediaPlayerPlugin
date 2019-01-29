@@ -1,5 +1,5 @@
 # MediaPlayerPlugin
- Audio and video media player (Javascript Plugin)
+Plugin Javascript permettant le déploiement d'un media-player audio et/ou vidéo facilement sur votre site web
 
 
 forthcoming !!
