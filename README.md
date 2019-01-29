@@ -13,6 +13,7 @@ Afin d'inclure le plugin à votre projet web, dans un premier temps il suffit de
 __MediaPlayerPlugin/__ à l'intérieur de votre projet :
 * soit au coeur même de l'arborescence de votre projet
 * soit dans un sous dossier __plugin/__ par exemple
+
 ![ExemplePourCommencer](https://image.noelshack.com/fichiers/2019/05/2/1548786164-exemple1.png)
 
 ### Pré-requis
