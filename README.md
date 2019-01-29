@@ -7,3 +7,13 @@ forthcoming !!
 ## Langages utilisés ?
 * HTML5, CSS3
 * JavaScript, jQuery
+
+## Pour commencer
+Afin d'inclure le plugin à votre projet web, dans un premier temps il suffit de coller la totalité du dossier 
+MediaPlayerPlugin/ à l'intérieur de votre projet :
+* soit au coeur même de l'abrorescence de votre projet
+* soit dans un sous dossier plugin/ par exemple
+
+### Pré-requis
+
+### Déploiement
