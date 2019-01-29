@@ -5,5 +5,5 @@ Plugin Javascript permettant le déploiement d'un media-player audio et/ou vidé
 forthcoming !!
 
 ## Langages utilisés ?
-*HTML5, CSS3
-*JavaScript, jQuery
+* HTML5, CSS3
+* JavaScript, jQuery
