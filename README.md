@@ -32,3 +32,5 @@ Ensuite il vous faut :
   1. `<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>`
   2. `<script src="../MediaPlayerPlugin/js/jquery.CustomScrollbar.js"></script>`
   3. `<script src="../MediaPlayerPlugin/js/mediaPlayer_main.js"></script>`
+
+#### Creation du Média Player
