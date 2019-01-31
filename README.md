@@ -61,7 +61,7 @@ Il suffit de créer un élément `<div>` contenant comme class `activeBarPlugin1
 Comme pour le MédiaPlayer Principal, on peut rajouter à cette `<div>` la classe `hiddenElement` qui fait apparaitre/disparaitre l'ActiveBar en fonction du mouvement de la souris.<br>
 
 Exemple de code HTML pour le déploiement d'une ActiveBar : `<div class="activeBarPlugin1 hiddenElement"></div>`
-<br>
+<br><br>
 Exemple de code HTML complet MédiaPlayer + ActiveBar :<br>
     `<div class="playerPlugin videoType hiddenElement col-lg-7"></div>`<br>
     `<div class="activeBarPlugin1 hiddenElement"></div>`
