@@ -40,12 +40,12 @@ Ensuite il vous faut :
 Créer dans le corps de votre vue entre les balises `<body>` et `</body>` un élément `<div>` contenant comme class `playerPlugin` pour faire apparaitre le lecteur principal et la liste des fichiers audios/vidéos :
 
 __`<div class="playerPlugin audioType"></div>`__
-* La classe **playerPlugin** sert à afficher le corps du MédiaPlayer (Lecteur + Timeline + Liste des médias) __INDISPENSABLE__
-* La classe **audioType** sert à informer le plugin que les médias à lire sont de type audio (.mp3, .wav ...)
+* La classe **.playerPlugin** sert à afficher le corps du MédiaPlayer (Lecteur + Timeline + Liste des médias) __INDISPENSABLE__
+* La classe **.audioType** sert à informer le plugin que les médias à lire sont de type audio (.mp3, .wav ...)
 
 #### Options du MédiaPlayer Principal
 Différentes options peuvent être ajouter au MédiaPlayer. Pour cela il suffit simplement de rajouter certaines classes à l'élément `<div class="playerPlugin audioType"></div>` créer plus haut.
 Voici les différentes classes existantes :
-* La classe **videoType** sert à informer au plugin que les médias à lire sont de type vidéo (.mp4, .avi ...). Cette classe remplace la classe audioType (soit audioType, soit videoType). Elle permet de lire a la fois des fichiers de type vidéo et audio. Vous pouvez donc mettre à jour le tableau __tracks__ dans le fichier __js/mediaPlayer_main.js__ à la ligne **6** avec des fichiers audio et vidéo sans problème.
-* La classe **hiddenElements** sert à faire disparaitre le MédiaPlayer lorsqu'il n'y a plus de mouvement de souris détecté, à l'inverse le MédiaPlayer réapparait lorsqu'un mouvement de souris est détecté.
+* La classe **.videoType** sert à informer au plugin que les médias à lire sont de type vidéo (.mp4, .avi ...). Cette classe remplace la classe audioType (soit audioType, soit videoType). Elle permet de lire a la fois des fichiers de type vidéo et audio. Vous pouvez donc mettre à jour le tableau __tracks__ dans le fichier __js/mediaPlayer_main.js__ à la ligne **6** avec des fichiers audio et vidéo sans problème.
+* La classe **.hiddenElements** sert à faire disparaitre le MédiaPlayer lorsqu'il n'y a plus de mouvement de souris détecté, à l'inverse le MédiaPlayer réapparait lorsqu'un mouvement de souris est détecté.
 * Les classes responsive de **Bootstrap** sont aussi acceptés pour définir la largeur du MédiaPlayer (col-sm-#, col-md-#, col-lg-#, col-xl-#, => # à remplacer par un chiffre entre 1 et 12). Liens Bootstrap : [Bootstrap initiation](https://www.w3schools.com/booTsTrap/bootstrap_grid_basic.asp)
