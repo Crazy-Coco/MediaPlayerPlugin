@@ -27,12 +27,12 @@ Avant de déployer le média player sur une de vos vues(.html) il vous faut :
 Pour déployer le média player, placé vous dans votre __vue.html__, pour l'exemple considérons que cette vue est dans dossier __WebContent/__.
 
 Ensuite il vous faut :
-* inclure la feuille de style du plugin dans le `<head>` de votre vue : `<link rel="stylesheet" href="../MediaPlayerPlugin/style/mediaPlayer.css">`
+* inclure la feuille de style du plugin dans le __<head>__ de votre vue : `<link rel="stylesheet" href="../MediaPlayerPlugin/style/mediaPlayer.css">`
 * inclure les scripts javascript indispensable au bon fonctionnement du plugin (3 au total) à la fin de votre `<body>`, juste avant la balise fermante `</body>` :
   1. `<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>`
   2. `<script src="../MediaPlayerPlugin/js/jquery.CustomScrollbar.js"></script>`
   3. `<script src="../MediaPlayerPlugin/js/mediaPlayer_main.js"></script>`
 
 #### Creation du Média Player Principal
-Creer dans le corps de votre vue entre les balises `<body>` et `</body>` un élément `<div>` contenant comme class `playerPlugin`pour faire apparaitre le lecteur principal et la liste des fichiers audios/vidéos :<br>
+Creer dans le corps de votre vue entre les balises __<body>__ et `</body>` un élément `<div>` contenant comme class `playerPlugin`pour faire apparaitre le lecteur principal et la liste des fichiers audios/vidéos :<br>
 `<div class="playerPlugin"></div>`
