@@ -24,3 +24,5 @@ Avant de déployer le média player sur une de vos vues(.html) il vous faut :
 3. Modifier les lignes du tableau __tracks__ dans le fichier __js/mediaPlayer_main.js__ à  la ligne **6**, remplacer les valeurs(track, name, artist, duration, path) par les valeurs correspondant à vos fichiers audio et vidéo. La valeur la plus importante est **path**, elle indique au média player le chemin de vos fichiers audio et vidéo. 
 
 ### Déploiement
+Pour déployer le média player, placé vous dans votre __vue.html__, pour l'exemple considérons que cette vue est dans dossier __WebContent/__.
+Ensuite il vous faut :
