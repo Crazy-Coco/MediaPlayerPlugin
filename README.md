@@ -68,7 +68,7 @@ Exemple de code HTML complet MédiaPlayer + ActiveBar :<br>
     `<div class="activeBarPlugin1 hiddenElement"></div>`
     
 ### Screenshot
-[![MediaPlayerPluginVideo](https://thumbs.gfycat.com/HarshMemorableChihuahua-mobile.mp4)
+[![MediaPlayerPluginVideo](https://image.noelshack.com/fichiers/2019/05/2/1548783526-mediaplayerplugin1.png)](https://thumbs.gfycat.com/HarshMemorableChihuahua-mobile.mp4)
 
 ### Améliorations à venir
 Liens de partage Facebook, Twitter, Google+.<br>Ouverture d'une popup pour partager la page web sur ces différents réseaux sociaux.
