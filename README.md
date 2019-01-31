@@ -67,3 +67,5 @@ Exemple de code HTML complet MédiaPlayer + ActiveBar :<br>
     `<div class="playerPlugin videoType hiddenElement col-lg-7"></div>`<br>
     `<div class="activeBarPlugin1 hiddenElement"></div>`
 
+### Améliorations à venir
+Liens de partage Facebook, Twitter, Google+.<br>Ouverture d'une popup pour partager la page web sur ces différents réseaux sociaux.
