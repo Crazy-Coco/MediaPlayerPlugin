@@ -36,5 +36,6 @@ Ensuite il vous faut :
 #### Creation du Média Player Principal
 Creer dans le corps de votre vue entre les balises 
 
-`<body>` et `</body>` un élément `<div>` contenant comme class `playerPlugin` pour faire apparaitre le lecteur principal et la liste des fichiers audios/vidéos :<br>
+`<body>` et `</body>` un élément `<div>` contenant comme class `playerPlugin` pour faire apparaitre le lecteur principal et la liste des fichiers audios/vidéos :
+
 __`<div class="playerPlugin"></div>`__
