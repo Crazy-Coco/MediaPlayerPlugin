@@ -60,4 +60,10 @@ Exemple de code HTML pour créer un MédiaPlayer de type vidéo avec apparition/
 Il suffit de créer un élément `<div>` contenant comme class `activeBarPlugin1` pour faire apparaitre l' ActiveBar qui se place automatiquement en bas de l'écran et qui prend toute la largeur de celui-ci.<br>
 Comme pour le MédiaPlayer Principal, on peut rajouter à cette `<div>` la classe `hiddenElement` qui fait apparaitre/disparaitre l'ActiveBar en fonction du mouvement de la souris.<br>
 
-Exemple de code HTML : `<div class="activeBarPlugin1 hiddenElement"></div>`
+Exemple de code HTML pour le déploiement d'une ActiveBar : `<div class="activeBarPlugin1 hiddenElement"></div>`
+<br>
+Exemple de code HTML complet MédiaPlayer + ActiveBar :
+  <div class="playerPlugin videoType hiddenElement col-lg-7"></div>
+
+  <div class="activeBarPlugin1 hiddenElement"></div>
+
