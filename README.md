@@ -33,7 +33,14 @@ Ensuite il vous faut :
   2. `<script src="../MediaPlayerPlugin/js/jquery.CustomScrollbar.js"></script>`
   3. `<script src="../MediaPlayerPlugin/js/mediaPlayer_main.js"></script>`
 
-#### Creation du Média Player Principal
-Creer dans le corps de votre vue entre les balises `<body>` et `</body>` un élément `<div>` contenant comme class `playerPlugin` pour faire apparaitre le lecteur principal et la liste des fichiers audios/vidéos :
+#### Creation du MédiaPlayer Principal
+Créer dans le corps de votre vue entre les balises `<body>` et `</body>` un élément `<div>` contenant comme class `playerPlugin` pour faire apparaitre le lecteur principal et la liste des fichiers audios/vidéos :
 
-__`<div class="playerPlugin"></div>`__
+__`<div class="playerPlugin audioType"></div>`__
+* La classe _playerPlugin_ sert à afficher le corps du MédiaPlayer (Lecteur + Timeline + Liste des médias) __INDISPENSABLE__
+* La classe _audioType_ sert à informer le plugin que les médias à lire sont de type audio (.mp3, .wav ...)  __INDISPENSABLE__
+
+#### Options du MédiaPlayer Principal
+Différentes options peuvent être ajouter au MédiaPlayer. Pour cela il suffit simplement de rajouter certaines classes à l'élément `<div class="playerPlugin audioType"></div>` créer plus haut.
+Voici les différentes classes existantes :
+* La classe _videoType_ sert à informer le plugin que les médias à lire sont de type vidéo (.mp4, .avi ...), cette classes permet de lire a la fois des fichiers de type vidéo et audio. Vous pouvez donc mettre à jour le tableau __tracks__ dans le fichier __js/mediaPlayer_main.js__ à  la ligne **6** avec des fichiers audio et vidéo sans problème.
