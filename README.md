@@ -66,6 +66,9 @@ Exemple de code HTML pour le déploiement d'une ActiveBar : <br>
 Exemple de code HTML complet MédiaPlayer + ActiveBar :<br>
     `<div class="playerPlugin videoType hiddenElement col-lg-7"></div>`<br>
     `<div class="activeBarPlugin1 hiddenElement"></div>`
+    
+### Screenshot
+[![MediaPlayerPluginVideo](https://image.noelshack.com/fichiers/2019/05/2/1548783526-mediaplayerplugin1.png)](http://www.k-upload.fr/afficher-video-2019-01-31-1db453443accueilmedia.mp4.html)
 
 ### Améliorations à venir
 Liens de partage Facebook, Twitter, Google+.<br>Ouverture d'une popup pour partager la page web sur ces différents réseaux sociaux.
