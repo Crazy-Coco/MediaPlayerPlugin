@@ -33,7 +33,7 @@ Ensuite il vous faut :
   2. `<script src="../MediaPlayerPlugin/js/jquery.CustomScrollbar.js"></script>`
   3. `<script src="../MediaPlayerPlugin/js/mediaPlayer_main.js"></script>`
 
-#### Creation du MédiaPlayer Principal
+### Creation du MédiaPlayer Principal
 
 ![MediaPlayer+ListeMedia](https://image.noelshack.com/fichiers/2019/05/4/1548958634-mediaplayerandlist.png)
 
