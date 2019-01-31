@@ -33,4 +33,6 @@ Ensuite il vous faut :
   2. `<script src="../MediaPlayerPlugin/js/jquery.CustomScrollbar.js"></script>`
   3. `<script src="../MediaPlayerPlugin/js/mediaPlayer_main.js"></script>`
 
-#### Creation du Média Player
+#### Creation du Média Player Principal
+Creer dans le corps de votre vue entre les balises `<body>` et `</body>` un élément `<div>` contenant comme class `playerPlugin`pour faire apparaitre le lecteur principal et la liste des fichiers audios/vidéos :
+  <div class="playerPlugin"></div>
