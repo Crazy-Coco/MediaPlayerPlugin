@@ -34,6 +34,9 @@ Ensuite il vous faut :
   3. `<script src="../MediaPlayerPlugin/js/mediaPlayer_main.js"></script>`
 
 #### Creation du MédiaPlayer Principal
+
+![MediaPlayer+ListeMedia](https://image.noelshack.com/fichiers/2019/05/4/1548958634-mediaplayerandlist.png)
+
 Créer dans le corps de votre vue entre les balises `<body>` et `</body>` un élément `<div>` contenant comme class `playerPlugin` pour faire apparaitre le lecteur principal et la liste des fichiers audios/vidéos :
 
 __`<div class="playerPlugin audioType"></div>`__
