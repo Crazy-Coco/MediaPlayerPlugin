@@ -71,4 +71,6 @@ Exemple de code HTML complet MédiaPlayer + ActiveBar :<br>
 
 
 ### Améliorations à venir
-Liens de partage Facebook, Twitter, Google+.<br>Ouverture d'une popup pour partager la page web sur ces différents réseaux sociaux.
+Liens de partage Facebook, Twitter, Google+.<br>
+Ouverture d'une popup pour partager la page web sur ces différents réseaux sociaux.<br>
+ActiveBar n°2 (nouveau design)
